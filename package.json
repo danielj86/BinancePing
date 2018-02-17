@@ -1,0 +1,9 @@
+{
+  "name": "binance-delay",
+  "version": "0.0.0",
+  "description": "BinanceDelay",
+  "main": "app.js",
+  "author": {
+    "name": "danie"
+  }
+}

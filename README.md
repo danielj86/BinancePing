@@ -1,4 +1,4 @@
-# BinancePing
+﻿# BinancePing
 Test connection delay with Binance API
 
 1. Nodejs must be installed on your machine
