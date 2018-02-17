@@ -6,38 +6,37 @@ Test connection delay with Binance API
 3. node app.js
 
 
-## 
-Results examples
+## Results examples
 
-Tel aviv <> Binance
-
-1: 7609MS
-2: 7602MS
-3: 7598MS
-4: 7603MS
-5: 7608MS
-6: 7603MS
-7: 7612MS
-8: 7592MS
-9: 7589MS
-10: 7592MS
+Tel aviv <> Binance <br />
+<br />
+1: 7609MS <br />
+2: 7602MS <br />
+3: 7598MS <br />
+4: 7603MS <br />
+5: 7608MS <br />
+6: 7603MS <br />
+7: 7612MS <br />
+8: 7592MS <br />
+9: 7589MS <br />
+10: 7592MS <br />
 Binance avarage delay: 7600.8MS
+<br /><br />
 
-
-Tokyo (vultr) <> Binance
-
-1: 15MS
-2: 5MS
-3: 2MS
-4: 4MS
-5: 3MS
-6: 3MS
-7: 4MS
-8: 4MS
-9: 3MS
-10: 3MS
+Tokyo (vultr) <> Binance<br />
+<br />
+1: 15MS<br />
+2: 5MS<br />
+3: 2MS<br />
+4: 4MS<br />
+5: 3MS<br />
+6: 3MS<br />
+7: 4MS<br />
+8: 4MS<br />
+9: 3MS<br />
+10: 3MS<br />
 Binance avarage delay: 4.6MS
 
+<br />
 
-
-## TBD check more servers
+** TBD check more servers
